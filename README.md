@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aroon009
 - 👀 I’m interested in blockchain technology  ...
--    I'm interested in joining for startup company for parallel growth.  
+- 👀I'm interested in joining for startup company for parallel growth.  
 - 🌱 I’m currently learning Smart Contracts development. 
 - 📫 How to reach me bhusalarun7@gmail.com
 
