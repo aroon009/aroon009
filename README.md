@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @aroon009
-- 👀 I’m interested in blockchain technology  ...
-- 👀I'm interested in joining for startup company for parallel growth.  
+- 
 - 🌱 I’m currently learning Smart Contracts development. 
-- 📫 How to reach me bhusalarun7@gmail.com
+- 👀I'm  looking to collaboorate on Web3 projects.
+- 📫 Reaching me is simple
+- Linkin - https://www.linkedin.com/in/arun-bhusal-443a0479/
+- mail - bhusalarun7@gmail.com
 
 <!---
 aroon009/aroon009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
