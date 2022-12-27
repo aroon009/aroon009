@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aroon009
-- 
 - 🌱 I’m currently learning Smart Contracts development. 
 - 👀I'm  looking to collaboorate on Web3 projects.
 - 📫 Reaching me is simple
